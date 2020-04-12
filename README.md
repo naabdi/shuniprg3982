@@ -1,9 +1,10 @@
-# Computer Programing Course (2020)
+# Computer Programming Course (2020)
 ## University of Shahreza
 
-This repository contains examples and assignments' codes.
+This repository contains examples and assignments codes.
 
 **Reference Book**
+
 C how to Program: With an Introduction to C++
 
 ### lecture 1
