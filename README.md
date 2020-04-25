@@ -1,3 +1,6 @@
+![GitHub top language](https://img.shields.io/github/languages/top/naabdi/shuniprg3982?color=a&logo=C&logoColor=blue&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/naabdi/shuniprg3982?style=plastic)
+
 # Computer Programming Course (2020)
 ## University of Shahreza
 
