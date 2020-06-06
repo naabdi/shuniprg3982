@@ -21,3 +21,5 @@ Program Control
 Functions
 ### Lecture 5
 Arrays
+### Lecture 6
+Character and string
